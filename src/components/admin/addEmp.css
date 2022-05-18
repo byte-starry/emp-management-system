@@ -1,0 +1,12 @@
+.add-employee {
+    width: 60%;
+    margin-inline: auto;
+  }
+  
+  .add-employee form input,
+  .add-employee form button {
+    display: block;
+    width: 75;
+    padding: 3rem;
+    margin-bottom: 3rem;
+  }

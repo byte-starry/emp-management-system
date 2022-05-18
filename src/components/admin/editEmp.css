@@ -1,0 +1,12 @@
+.edit-employee {
+    width: 60%;
+    margin-inline: auto;
+  }
+  
+  .edit-employee form input,
+  .edit-employee form button {
+    display: block;
+    width: 75%;
+    padding: 3rem;
+    margin-bottom: 3rem;
+  }
